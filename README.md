@@ -3,7 +3,7 @@
 ## Submission Links
 Repository URL: [https://github.com/melissa-tan/stackline-assessment](https://github.com/melissa-tan/stackline-assessment)
 
-Website URL: [https://melissa-tan.github.io/stackline-assessment/](https://melissa-tan.github.io/stackline-assessment/)
+Website URL: [https://stackline-assessment-mt.herokuapp.com/](https://stackline-assessment-mt.herokuapp.com/)
 
 ## Installation
 1. Download/clone this repository [Stackline Assessment](https://github.com/melissa-tan/stackline-assessment.git)
