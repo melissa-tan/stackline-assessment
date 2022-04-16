@@ -1,0 +1,21 @@
+.product-container{
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 20vw;
+}
+img{
+    height: 15vh;
+}
+
+h3{
+    background-color: white;
+}
+p{
+    background-color: white;
+    color: rgb(178,187,201);
+    margin-left: 10%;
+    margin-right: 10%;
+}

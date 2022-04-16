@@ -1,23 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./stackline_logo.svg";
+import React from "react";
+import Product from "./components/Product";
+import Chart from "./components/Chart";
+import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+    <div>
+      <header>
+        <img src={logo} className="logo" alt="stackline-logo" />
       </header>
+      <div className="container">
+        <Product className="left-container" />
+        <Chart className="right-container" />
+      </div>
     </div>
   );
 }

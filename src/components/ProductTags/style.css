@@ -1,0 +1,28 @@
+ul,li{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul {
+  background-color: white;
+  display: inline;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.tag-icon {
+  background-color: white;
+  border: 1px solid rgb(234, 237, 243);
+  color: rgb(88, 114, 153);
+  font-size: 0.8rem;
+  list-style-type: none;
+  text-align: center;
+  width: fit-content;
+  margin: 3px;
+  padding: 3px;
+  padding-left: 10px;
+  padding-right:10px;
+  border-radius: 5px;
+}
